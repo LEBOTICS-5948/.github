@@ -22,7 +22,7 @@ Make your way into the FRC coding community.
 * [View our learning path]()
 * [Explore Open Source Examples]()
 
-Visit [Official learnin path wplib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html) to learn more!
+Visit [Official learning path wplib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html) to learn more!
 
 Find more specific information by visiting [vendor libraries](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html#libraries)
 
