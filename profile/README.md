@@ -18,7 +18,7 @@
 
 Make your way into the FRC coding community.
 
-* [View last season's code]()
+* [View last season's code](https://github.com/LEBOTICS-5948/2024_Season)
 * [View our learning path]()
 * [Explore Open Source Examples]()
 
