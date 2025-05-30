@@ -18,14 +18,12 @@
 
 Make your way into the FRC coding community.
 
-* [View last season's code](https://github.com/LEBOTICS-5948/2024_Season)
-* [View our learning path]()
-* [Explore Open Source Examples]()
+* [View last season's code]([https://github.com/LEBOTICS-5948/2024_Season](https://github.com/LEBOTICS-5948/2025_season))
+* [View our learning path](https://github.com/LEBOTICS-5948/Code_Kids_Learning_path)
+* [Explore Open Source Examples](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Visit [Official learning path wplib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html) to learn more!
 
 Find more specific information by visiting [vendor libraries](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html#libraries)
 
 ----
-
-
