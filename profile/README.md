@@ -10,7 +10,7 @@
 
 # Lebotics Software Team
 
-| <img src="https://github.com/LEBOTICS-5948/.github/blob/main/images/imagen_ejemplo_readme.png" alt="Lebotics" style="width: 600px;"> | **LEBOTICS**<br> $5948$<br> ----<br> *FRC Team* |
+| <img src="https://github.com/LEBOTICS-5948/.github/blob/main/images/imagen_tunnasaur.png" alt="Lebotics" style="width: 600px;"> | **LEBOTICS**<br> $5948$<br> ----<br> *FRC Team* |
 | - | - |
 
 
